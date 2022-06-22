@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1653817806 source:c:\users\daham\onedrive\pour le project\qui veux gagner un million\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+
